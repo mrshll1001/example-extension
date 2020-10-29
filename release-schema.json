@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "tender": {
+      "location": {
+        "$ref": "#/definitions/Address"
+      }
+    }
+  }
+}

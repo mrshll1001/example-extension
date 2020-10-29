@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Matt's Sample Tender Location Extension"
+  },
+  "description": {
+    "en": "Adds a location field to the tender object which allows you to enter the address of a tender "
+  },
+  "documentationUrl": {
+    "en": ""
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ]
+}
