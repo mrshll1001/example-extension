@@ -1,8 +1,12 @@
 {
-  "properties": {
-    "tender": {
-      "location": {
-        "$ref": "#/definitions/Address"
+  "definitions": {
+    "Tender": {
+      "properties": {
+        "location": {
+          "title": "Tender Location",
+          "description": "The location for the tender",
+          "$ref": "#/definitions/Address"
+        }
       }
     }
   }
